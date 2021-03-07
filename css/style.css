@@ -1,0 +1,101 @@
+*{
+    text-align: center;
+}
+
+body{ 
+   font-family: 'Lobster', cursive;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+li{
+    height: 30px;
+    padding: 10px;
+}
+
+
+    /*-------estos son los hexadecimales------*/
+.or-first{
+    background-color: #49006a;
+    color:#fa9fb5;
+    text-align: center;
+}
+
+.or-second{
+    background-color:#7a0177;
+    color:#f768a1;
+}
+
+.or-third{
+    background-color:#ae017e;
+}
+
+.or-fourth{
+    background-color:#dd3497;
+}
+
+.or-fifth{
+    background-color:#f768a1;
+    color:#49006a;
+}
+
+ /*-------estos son los rgb------*/
+ .ag-first{
+     background-color:rgb(8,64,129);
+     color: rgb(123,204,196);
+ }
+
+ .ag-second{
+     background-color:rgb(8,104,172);
+ }
+
+ .ag-third{
+     background-color:rgb(43,140,190);
+ }
+
+ .ag-fourth{
+     background-color: rgb(78,179,211);
+ }
+
+ .ag-fifth{
+     background-color:rgb(123,204,196);
+     color:rgb(8,64,129) ;
+ }
+
+ /*-------estos son los hsl------*/
+ .na-first{
+     background-color: hsl(153,100%,18%);
+     color:hsl(96,54%,71%) ;
+ }
+ 
+ .na-second{
+     background-color:hsl(140,58%,33%);
+ }
+
+ .na-third{
+     background-color:hsl(136,45%,46%);
+ }
+
+ .na-fourth{
+     background-color:hsl(121,41%,62%);
+ }
+
+ .na-fifth{
+     background-color:hsl(96,54%,71%);
+     color:hsl(153,100%,18%) ;
+ }
+
+ html{
+     background-color: rgba(210, 122, 221, 0.925);
+ }
+
+ul{
+    display: inline;
+}
+
